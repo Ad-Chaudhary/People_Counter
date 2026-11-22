@@ -1,0 +1,6 @@
+﻿data/
+*.mp4
+*.avi
+__pycache__/
+.venv/
+venv/
